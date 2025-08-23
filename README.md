@@ -25,11 +25,3 @@ This project uses pre-trained YOLOv8 models. No custom training is required.
 - **Objects:** Person (player), sports ball, and other objects detected using YOLOv8 pre-trained COCO classes.  
 
 ---
-
-## Installation
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/VSUBASHRAJ/Real-Time-Sports-Player-Ball-Detection.git
-cd Real-Time-Sports-Player-Ball-Detection
