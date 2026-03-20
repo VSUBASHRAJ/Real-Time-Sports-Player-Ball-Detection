@@ -1,16 +1,16 @@
 # Real-Time Sports Player & Ball Detection – Technical Documentation
 
-## 📌 Overview
+##  Overview
 This repository contains structured technical documentation for a real-time sports detection system built using YOLOv8. The purpose of this documentation is to simplify complex AI concepts and present them in a clear, organized, and easy-to-understand format.
 
-## 🎯 Objective
+##  Objective
 - Translate complex object detection workflows into user-friendly documentation
 - Provide clear explanations for both technical and non-technical audiences
 - Improve accessibility of AI system understanding
 
 ---
 
-## ⚙️ System Summary
+##  System Summary
 
 The system detects:
 - Players
@@ -21,7 +21,7 @@ It processes video frames in real-time and outputs labeled detections with bound
 
 ---
 
-## 🔄 Workflow
+##  Workflow
 
 1. **Input**  
    Video stream or image frames are captured.
@@ -36,21 +36,21 @@ It processes video frames in real-time and outputs labeled detections with bound
 
 ---
 
-## 🧠 Key Concepts Explained
+##  Key Concepts Explained
 
-### 🔹 What is YOLOv8?
+###  What is YOLOv8?
 YOLO (You Only Look Once) is a real-time object detection algorithm that processes images in a single pass, making it fast and efficient.
 
-### 🔹 Object Detection
+###  Object Detection
 The process of identifying and locating objects within an image using bounding boxes and labels.
 
-### 🔹 Model Training
+###  Model Training
 - Dataset: 1,500+ annotated frames  
 - Model learns patterns of players, ball, and referees  
 
 ---
 
-## 🛠 Technologies Used
+##  Technologies Used
 - Python
 - PyTorch
 - YOLOv8
@@ -59,7 +59,7 @@ The process of identifying and locating objects within an image using bounding b
 
 ---
 
-## 📊 Key Features
+##  Key Features
 - Real-time detection system
 - High accuracy (95%+)
 - Efficient processing of video frames
@@ -67,7 +67,7 @@ The process of identifying and locating objects within an image using bounding b
 
 ---
 
-## 📖 Documentation Highlights
+##  Documentation Highlights
 - Simplified explanation of AI workflows
 - Step-by-step system process
 - Clear structure for easy navigation
@@ -75,7 +75,7 @@ The process of identifying and locating objects within an image using bounding b
 
 ---
 
-## 🚀 How to Use
+##  How to Use
 
 1. Clone the repository  
 2. Run the detection script  
@@ -83,12 +83,12 @@ The process of identifying and locating objects within an image using bounding b
 
 ---
 
-## 📌 Conclusion
+##  Conclusion
 This documentation demonstrates the ability to analyze complex technical systems and convert them into structured, easy-to-understand content, making it useful for developers, stakeholders, and beginners.
 
 ---
 
-## 👤 Author
+##  Author
 **Subash Raj V**  
 - GitHub: https://github.com/VSUBASHRAJ  
 - LinkedIn: https://www.linkedin.com/in/v-subash-raj/
